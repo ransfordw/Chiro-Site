@@ -1,0 +1,28 @@
+header {
+    text-align: center;
+}
+
+.jumbotron-fluid{
+background: url(../img/yoga-banner-home99.jpg) no-repeat center 20%;
+background-attachment: scroll;
+}
+.headerContainer {
+    padding: 2em;
+}
+
+.headerRow {
+    text-align: center;
+    position: relative;
+    margin-left: 38%;
+}
+
+.btn-left{
+background: var(--tan);
+border-color: transparent;
+}
+
+.btn-right{
+    background: var(--slate);
+border-color: transparent;
+
+    }
