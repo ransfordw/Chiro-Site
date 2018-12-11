@@ -2,9 +2,17 @@ header {
     text-align: center;
 }
 
+.display-4 {
+    color: var(--slate);
+}
+
+.display-6 {
+    color: white;
+}
+
 .jumbotron-fluid{
-background: url(../img/yoga-banner-home99.jpg) no-repeat center 20%;
-background-attachment: scroll;
+    background: url(../assets/img/yoga-banner-home99.jpg) no-repeat center 20%;
+    background-attachment: scroll;
 }
 .headerContainer {
     padding: 2em;
@@ -17,12 +25,12 @@ background-attachment: scroll;
 }
 
 .btn-left{
-background: var(--tan);
-border-color: transparent;
+    background: var(--tan);
+    border-color: transparent;
 }
 
 .btn-right{
     background: var(--slate);
-border-color: transparent;
+    border-color: transparent;
 
-    }
+}

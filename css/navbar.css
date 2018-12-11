@@ -1,0 +1,15 @@
+nav {
+    font-family: var(--myFont);
+    color: var(--slate);
+    font: bold;
+    padding: .3em;
+    background: rgb(255, 255, 255);
+}
+nav:ul{
+
+}
+.nav-item{
+    font-family: var(--myFont);
+    color: var(--slate);
+    font: bold;
+}
